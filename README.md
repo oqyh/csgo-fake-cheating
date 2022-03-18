@@ -6,15 +6,13 @@
 
 # -= Setup Config =-
 
-1- Download All Stuff At My github. ![(Download)]([https://github.com/oqyh/csgo-fake-cheating/releases])
+1- Download All Stuff At My github. (https://github.com/oqyh/csgo-fake-cheating/releases)
 
 2- Drag And Drop **fakecheat.cfg** Inside **csgo\cfg**.
 
 3- You Can Change Binds In **fakecheat.cfg**
 
 4- Lunch CS:GO Open Console Type **exec fakecheat**
-
-<a href="https://google.com">https://bing.com</a>
 
 
 https://www.youtube.com/watch?v=QOYXXf2bxkw
@@ -25,16 +23,15 @@ https://www.youtube.com/watch?v=QOYXXf2bxkw
 
 # 1- Animated Clan Tag (2.0)
 
-1- Join All **oqyh1-10** Steam Group Or Make Similar. [url=https://steamcommunity.com/id/oQYh/groups] (Join Steam Group)[/url]
+1- Join All **oqyh1-10** Steam Group Or Make Similar. (https://steamcommunity.com/id/oQYh/groups)
 
-2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.
-![(Macro Are Not Bannedable Do Your Own Research If You Don't Believe)]([https://steamcommunity.com/app/730/discussions/0/1639787494967833182/])
+2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.(https://steamcommunity.com/app/730/discussions/0/1639787494967833182/)
 
 3- Load **clantag.rec** And Make Sure You Check **Loop**.
 
 4- Press **F2** And Play CS:GO normaly.
 
-**Note:** Programe That I Use Is Open Source It's Recored Your Keyboard. [url=https://github.com/MysteriousJ/KeyboardRecorder] (Github)[/url]
+**Note:** Programe That I Use Is Open Source It's Recored Your Keyboard. (https://github.com/MysteriousJ/KeyboardRecorder)
 
 
 https://www.youtube.com/watch?v=-XJdUVkN-qM
