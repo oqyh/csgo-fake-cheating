@@ -6,13 +6,13 @@
 
 # -= Setup Config =-
 
-1- Download All Stuff At My github. [url=https://github.com/oqyh/csgo-fake-cheating] (Download)[/url]
+1- Download All Stuff At My github. [https://github.com/oqyh/csgo-fake-cheating](Download)
 
 2- Drag And Drop **fakecheat.cfg** Inside **csgo\cfg**.
 
 3- You Can Change Binds In **fakecheat.cfg**
 
-4- Lunch CS:GO Open Console Type **execfakecheat**
+4- Lunch CS:GO Open Console Type **exec fakecheat**
 
 
 https://www.youtube.com/watch?v=QOYXXf2bxkw
