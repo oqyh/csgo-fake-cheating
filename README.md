@@ -24,7 +24,8 @@ https://www.youtube.com/watch?v=QOYXXf2bxkw
 
 1- Join All **oqyh1-10** Steam Group Or Make Similar. (https://steamcommunity.com/id/oQYh/groups)
 
-2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.(https://steamcommunity.com/app/730/discussions/0/1639787494967833182/)
+2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.
+Macro Are Not Bannedable Do Your Own Research If You Don't Believe (https://steamcommunity.com/app/730/discussions/0/1639787494967833182/)
 
 3- Load **clantag.rec** And Make Sure You Check **Loop**.
 
