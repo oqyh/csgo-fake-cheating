@@ -79,5 +79,5 @@ https://www.youtube.com/watch?v=qN-Xj4oDb38
 
 https://www.youtube.com/watch?v=VscQ9yb4LTo
 
-
+## **Not Recommended Any Of These At Faceit,ESEA Or Community Servers You Will Get Banned Manual**
 ## Good Luck I'v Been Use It Almost 2 Years With Rare Skins.
