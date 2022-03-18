@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=-XJdUVkN-qM
 
 1- Open Console In-Game Type **sensitivity** Take Your Current sensitivity (Mine Was 2.5).
 
-2- Your Your Current sensitivity Paste it in **fakecheat.cfg** Line alias "-spinbot" "sensitivity 2.5; m_yaw 0.022".
+2- Take Your Current sensitivity Paste it in **fakecheat.cfg** Line alias "-spinbot" "sensitivity 2.5; m_yaw 0.022".
 
 3- Hold **V** Or You Can Change Bind In **fakecheat.cfg** To Fake Spin Relase Bind **V** To Turn Off Fake Spin.
 
