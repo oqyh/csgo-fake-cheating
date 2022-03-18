@@ -4,6 +4,7 @@
 ## Today ill show you how to get kicked fast + hated :)
 
 
+
 # -= Setup Config =-
 
 1- Download All Stuff At My github. (https://github.com/oqyh/csgo-fake-cheating/releases)
@@ -17,9 +18,7 @@
 
 https://www.youtube.com/watch?v=QOYXXf2bxkw
 
-![video](https://www.youtube.com/watch?v=QOYXXf2bxkw)
 
-![youtube](https://www.youtube.com/watch?v=QOYXXf2bxkw)
 
 # 1- Animated Clan Tag (2.0)
 
@@ -37,6 +36,7 @@ https://www.youtube.com/watch?v=QOYXXf2bxkw
 https://www.youtube.com/watch?v=-XJdUVkN-qM
 
 
+
 # 2- Fake SpinBot
 
 1- Open Console In-Game Type **sensitivity** Take Your Current sensitivity (Mine Was 2.5).
@@ -49,6 +49,7 @@ https://www.youtube.com/watch?v=-XJdUVkN-qM
 https://www.youtube.com/watch?v=iYRlCvy2huo
 
 
+
 # 3- Fake Spam Name
 
 1- Open **fake-cheating (1.0.0)\name spam\name spam.txt**.
@@ -59,6 +60,7 @@ https://www.youtube.com/watch?v=iYRlCvy2huo
 
 
 https://www.youtube.com/watch?v=_6GlYih6eOw
+
 
 
 # 4- Fake Kill Trash-Talk
@@ -77,4 +79,4 @@ https://www.youtube.com/watch?v=qN-Xj4oDb38
 https://www.youtube.com/watch?v=VscQ9yb4LTo
 
 
-## Good Luck I'v Been Use It Almost 2 Years With Rare Skins
+## Good Luck I'v Been Use It Almost 2 Years With Rare Skins.
