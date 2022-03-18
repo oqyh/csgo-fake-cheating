@@ -3,8 +3,6 @@
 
 ## Today ill show you how to get kicked fast + hated :)
 
-![alt text](https://github.com/oqyh/csgo-fake-cheating/blob/main/images/UvPq6mP.gif?raw=true)
-
 
 # -= Setup Config =-
 1- Download All Stuff At My github. [url=https://github.com/oqyh/csgo-fake-cheating] (Download)[/url]
@@ -27,37 +25,31 @@ https://www.youtube.com/watch?v=-XJdUVkN-qM
 
 
 # 2- Fake SpinBot
-[quote=author]
 1- Open Console In-Game Type [b]sensitivity[/b] Take Your Current sensitivity (Mine Was 2.5).
 2- Your Your Current sensitivity Paste it in [b]fakecheat.cfg[/b] Line alias "-spinbot" "sensitivity 2.5; m_yaw 0.022".
 3- Hold [b]V[/b] Or You Can Change Bind In [b]fakecheat.cfg[/b] To Fake Spin Relase Bind [b]V[/b] To Turn Off Fake Spin.
 
 https://www.youtube.com/watch?v=iYRlCvy2huo
-[/quote]
 
 
 # 3- Fake Spam Name
-[quote=author]
 1- Open [b]fake-cheating (1.0.0)\name spam\name spam.txt[b].
 2- Copy All Or Edit Name Spam [b]Note: Make Sure You Dont Delete Late Symbol[/b].
 3- In-Game Change Steam Name And Paste it [b]Note: Make Sure You Spam Confirm[/b].
 
 https://www.youtube.com/watch?v=_6GlYih6eOw
-[/quote]
 
 
 # 4- Fake Kill Trash-Talk
-[quote=author]
 1- You Can Change Binds In [b]fakecheat.cfg[/b] Trash-Talk Will Be [b]C[/b].
 2- Everytime You Kill Press [b]C[/b]. It Will Generate Trash-Talk
 
 https://www.youtube.com/watch?v=qN-Xj4oDb38
-[/quote]
+
 
 [b]In-Game Action ;D[/b]
-[quote=author]
 
 https://www.youtube.com/watch?v=VscQ9yb4LTo
-[/quote]
+
 
 ## Good Luck I'v Been Use It Almost 2 Years With Rare Skins
