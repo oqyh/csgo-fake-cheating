@@ -6,7 +6,7 @@
 
 # -= Setup Config =-
 
-1- Download All Stuff At My github. ![(Download)]([https://github.com/oqyh/csgo-fake-cheating])
+1- Download All Stuff At My github. ![(Download)]([https://github.com/oqyh/csgo-fake-cheating/releases])
 
 2- Drag And Drop **fakecheat.cfg** Inside **csgo\cfg**.
 
@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=QOYXXf2bxkw
 
 1- Join All **oqyh1-10** Steam Group Or Make Similar. [url=https://steamcommunity.com/id/oQYh/groups] (Join Steam Group)[/url]
 
-2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**. [url=https://steamcommunity.com/app/730/discussions/0/1639787494967833182/] (Macro Are Not Bannedable Do Your Own Research If You Don't Believe)[/url]
+2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.
+![(Macro Are Not Bannedable Do Your Own Research If You Don't Believe)]([https://steamcommunity.com/app/730/discussions/0/1639787494967833182/])
 
 3- Load **clantag.rec** And Make Sure You Check **Loop**.
 
