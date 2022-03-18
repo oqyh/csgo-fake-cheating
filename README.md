@@ -6,7 +6,7 @@
 
 # -= Setup Config =-
 
-1- Download All Stuff At My github. [https://github.com/oqyh/csgo-fake-cheating](Download)
+1- Download All Stuff At My github. ![(Download)]([https://github.com/oqyh/csgo-fake-cheating])
 
 2- Drag And Drop **fakecheat.cfg** Inside **csgo\cfg**.
 
