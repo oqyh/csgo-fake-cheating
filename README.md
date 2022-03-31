@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=QOYXXf2bxkw
 
 # 1- Animated Clan Tag (2.0)
 
-1- Join All **oqyh1-10** Steam Group Or Make Similar. (https://steamcommunity.com/id/oQYh/groups)
+1- You Must Join All oqyh1,2,3,4,5,6,7,8,10 Steam Group Or Make Similar. (https://steamcommunity.com/id/oQYh/groups)
 
 2- Open **fake-cheating (1.0.0)\clan tag\KeyboardRecorder.exe** Or Any Macro To Spam Bind h To Animat ClanTag By Clan **cl_clanid**.
 Macro Are Not Bannedable Do Your Own Research If You Don't Believe (https://steamcommunity.com/app/730/discussions/0/1639787494967833182/)
@@ -72,6 +72,16 @@ https://www.youtube.com/watch?v=_6GlYih6eOw
 
 
 https://www.youtube.com/watch?v=qN-Xj4oDb38
+
+
+
+5- Invisible Name
+
+1- Copy Inside This [𐂃𐂃].
+2- Paste It As Steam Name.
+
+
+https://youtube.com/watch?v=pdyFfZCAQo0
 
 
 
