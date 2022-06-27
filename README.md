@@ -92,3 +92,10 @@ https://www.youtube.com/watch?v=VscQ9yb4LTo
 
 ## **Not Recommended Any Of These At Faceit,ESEA Or Community Servers You Will Get Banned Manual**
 ## Good Luck I'v Been Use It Almost 2 Years With Rare Skins.
+
+
+## .:[ Donation ]:.
+
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/oQYh)
